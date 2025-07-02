@@ -1,11 +1,19 @@
 # HIV Infections in New York City
 
-## Datasets Used
+## Overview
 
-## Data Dictionary
+## Primary Files
+
+    1. Data_analysis:
+    2. Data_vizualization:
+    3. Data_dictionary:
+
+## Running the Program
 
 ## Data Summary
 
 ## Data Sources
 
 ## Project Objective
+
+## Features
