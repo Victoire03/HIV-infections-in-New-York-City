@@ -1,6 +1,6 @@
 # HIV Infections in New York City
 
-## Overview
+## Overview & Objective
 
 ## Primary Files
 
@@ -14,6 +14,6 @@
 
 ## Data Sources
 
-## Project Objective
-
 ## Features
+
+## Conclusion & Recommendations
