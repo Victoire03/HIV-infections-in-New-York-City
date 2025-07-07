@@ -2,13 +2,7 @@
 
 ## Overview & Objective
 
-## Primary Files
-
-    1. Data_analysis:
-    2. Data_vizualization:
-    3. Data_dictionary:
-
-## Running the Program
+This project aims to analyze the patterns and disparities of HIV infections in New York City, focusing on how race/ethnicity, age group, gender and neighborhood influence the rate of contamination. The primary goal is to identify which groups are most affected as they will serve as good indication of where public health interventions could have a huge impact.
 
 ## Data Summary
 
@@ -19,6 +13,14 @@ Both datasets include data on new diagnoses of HIV and AIDS in NYC for the calen
 Note:
 
 - Cells marked "NA" cannot be calculated because of cell suppression or 0 denominator.
+
+## Primary Files
+
+    1. Data_analysis:
+    2. Data_vizualization:
+    3. Data_dictionary:
+
+## Running the Program
 
 ## Data Sources
 
